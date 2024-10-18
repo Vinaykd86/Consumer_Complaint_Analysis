@@ -12,6 +12,8 @@ Data Source:Kaggle
 
 Dataset Link:https://www.kaggle.com/datasets/heemalichaudhari/consumer-complaints
 
+Project Link:https://1drv.ms/x/c/42aa8c83f8db0133/EcS1JMCnjx9KryaLmIqbLZ8BhXpj7PT8LOFkbHuo4ihweA?e=Dsw0Jr
+
 Dataset Description:
 
 It includes consumer complaints regarding various financial products such as mortgages, credit cards, loans, and debt collection. The dataset contains fields like Complaint ID, Product, Issue, Company, State, and Date Received, offering a comprehensive view of consumer grievances. Additionally, it tracks the company’s response, whether the complaint was addressed in a timely manner, and whether the complaint was disputed by the consumer.
