@@ -1,4 +1,4 @@
-# Cunsumer_Complaints_Analysis
+# Consumer_Complaints_Analysis
 
 ![Screenshot 2024-10-18 201724](https://github.com/user-attachments/assets/c6d85f48-068d-4b06-955c-43a3dd7f7edc)
 
@@ -9,31 +9,15 @@ Project Overview:
 The Consumer Complaint Data Analysis Dashboard project visualizes and analyzes consumer complaint data related to various financial products and services. The project is designed to help stakeholders understand the nature of complaints, their distribution by country, company, and source, and to evaluate company responses. The dashboard presents insights into how companies respond to complaints, the frequency of disputes, and the timeliness of responses.
 
 Data Source:Kaggle
+
 Dataset Link:https://www.kaggle.com/datasets/heemalichaudhari/consumer-complaints
 
 Dataset Description:
 
-Complaint ID: Unique identifier for each complaint.
+It includes consumer complaints regarding various financial products such as mortgages, credit cards, loans, and debt collection. The dataset contains fields like Complaint ID, Product, Issue, Company, State, and Date Received, offering a comprehensive view of consumer grievances. Additionally, it tracks the company’s response, whether the complaint was addressed in a timely manner, and whether the complaint was disputed by the consumer.
 
-Product: The financial product related to the complaint (e.g., Mortgage, Credit Card, Debt Collection, etc.).
+Key company responses include categories like monetary relief, non-monetary relief, or explanations for complaint closures. The data spans multiple years, allowing for analysis across time periods and regions
 
-Issue and sub issues: The specific issue related to the complaint (e.g., Loan modification, Incorrect credit report, etc.).
-
-Company: The financial institution against which the complaint was made.
-
-State: The U.S. state where the consumer is located.
-
-ZIP code: The ZIP code of the consumer.
-
-Date received: The date the complaint was received by the company.
-
-Date sent to company: The date the complaint was forwarded to the company.
-
-Timely Response: Indicates whether the company responded within a timely manner (Yes/No).
-
-Dispute: Whether the consumer disputed the company's response (Yes/No).
-
-Company Response: The type of response provided by the company (e.g., closed with explanation, closed with monetary relief, etc.).
 
 Conclusion:
 
