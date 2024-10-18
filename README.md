@@ -9,7 +9,6 @@ Project Overview:
 The Consumer Complaint Data Analysis Dashboard project visualizes and analyzes consumer complaint data related to various financial products and services. The project is designed to help stakeholders understand the nature of complaints, their distribution by country, company, and source, and to evaluate company responses. The dashboard presents insights into how companies respond to complaints, the frequency of disputes, and the timeliness of responses.
 
 Data Source:Kaggle
-
 Dataset Link:https://www.kaggle.com/datasets/heemalichaudhari/consumer-complaints
 
 Dataset Description:
