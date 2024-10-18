@@ -1,4 +1,4 @@
-# Consumer_Complaints_Analysis
+# Consumer_Complaint_Analysis
 
 ![Screenshot 2024-10-18 201724](https://github.com/user-attachments/assets/c6d85f48-068d-4b06-955c-43a3dd7f7edc)
 
